@@ -1,2 +1,2 @@
 # FirstYearJava
- Java files from 1st year of college
+ Random Java files from first year of college while learning to code.
